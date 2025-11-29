@@ -27,3 +27,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaaaxiaoxu&" alt="aaaaxiaoxu" /></p>
 
+![GitHub Snake Light](https://raw.githubusercontent.com/aaaaxiaoxu/aaaaxiaoxu/output/dist/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/aaaaxiaoxu/aaaaxiaoxu/output/dist/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)

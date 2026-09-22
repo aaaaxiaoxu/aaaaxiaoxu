@@ -1,35 +1,69 @@
-# Hi 👋, I'm xiaoxu
+<h1 align="center">Hi 👋, I'm xiaoxu / Liwei</h1>
+<h3 align="center">Agent Systems &amp; Full-Stack Developer</h3>
 
-### An individual developer
-
-- 🔭 I'm currently working on **Some Agent project development**
-
-- 🌱 I'm currently learning **Fastapi, Vue, Typescript**
-
-- 👯 I'm looking to collaborate on **the development of a start-up team**
-
-- 🤝 I'm looking for help with **design**
-
-- 💬 Ask me about **full stack development**
-
-- 📫 How to reach me **1275706080@qq.com**
-
-- ⚡ Fun fact **I think I am funny, i like boxing**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/aaaaxiaoxu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="aaaaxiaoxu" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://liwei-xu.me/">
+    <img src="https://img.shields.io/badge/Website-liwei--xu.me-111827?style=flat-square" alt="Personal website" />
+  </a>
+  <a href="https://github.com/aaaaxiaoxu">
+    <img src="https://img.shields.io/badge/GitHub-aaaaxiaoxu-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub profile" />
+  </a>
+  <a href="mailto:1275706080@qq.com">
+    <img src="https://img.shields.io/badge/Email-Let's_talk-2563EB?style=flat-square" alt="Email me" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/amplify" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nginx" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/rabbitMQ" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=rabbitmq" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuetify" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vuetify" alt="vuetify" width="40" height="40"/> </a></p>
+## 👨‍💻 About Me
 
+I'm an independent developer building **agent systems** and **full-stack products**, with a focus on testability and production reliability.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaaaxiaoxu&show_icons=true&theme=gruvbox)](https://github.com/aaaaxiaoxu/github-readme-stats)
+Currently exploring **multi-agent simulation, RAG, and AI workflows**.
 
+## 🔭 Current Work
 
-![GitHub Snake Light](https://raw.githubusercontent.com/aaaaxiaoxu/aaaaxiaoxu/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/aaaaxiaoxu/aaaaxiaoxu/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+**Agent Development Intern · Shanghai Jiao Tong University**  
+*Aug 2026 – Present*
 
+Contributing to **bid-source**, an agent-driven tender source onboarding system:
 
+- **Agent runtimes:** DSH/Cordis orchestration, Python adapter generation, and deterministic validation.
+- **Isolated execution:** Docker sandboxes and clean-room validation.
+- **Persistent workflows:** BullMQ, Redis, and MySQL for retries, cancellation, and checkpoints.
 
+## 🚀 Featured Project
+
+### [知账 · ZhiZhang](https://github.com/aaaaxiaoxu/zhi-zhang)
+
+An independently built, live WeChat Mini Program for personal finance.
+
+- Manual and voice bookkeeping, account transfers, and financial analytics.
+- Qwen3-ASR transcription with editable drafts confirmed by users.
+- TypeScript + FastAPI + MySQL, deployed with Docker Compose and Nginx.
+
+**Try it:** Search **「知账」** on WeChat.
+
+## 💼 Previously
+
+**Full-Stack Engineer · [Graviti / Diffus.me](https://www.diffus.me/)**  
+*Jul 2025 – Dec 2025*
+
+Built AI image generation platform features using **Nuxt, FastAPI, Pydantic, MongoDB, and MySQL**.
+
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=py,ts,vue,fastapi,mysql,mongodb,redis,docker,nginx,tailwind&amp;perline=5" alt="Python, TypeScript, Vue, FastAPI, MySQL, MongoDB, Redis, Docker, Nginx, and Tailwind CSS" />
+</p>
+
+## 🎓 Education
+
+**Xi'an Jiaotong-Liverpool University**  
+BSc in Information and Computing Science · 2022–2026
+
+## 🤝 Let's Connect
+
+Open to collaborating with **developers, designers, and early-stage teams** on AI tools and full-stack products.
+
+Away from the keyboard, I enjoy **boxing** 🥊
+
+📫 **[1275706080@qq.com](mailto:1275706080@qq.com)** · 🌐 **[liwei-xu.me](https://liwei-xu.me/)**
